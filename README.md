@@ -1,5 +1,4 @@
 ## Price distribution per m² in Kraków
-This section analyzes the distribution of real estate prices per square meter across the dataset.
 
 ### Key insights
 * **Typical market range:** The highest concentration of listings falls between **14,000 and 17,000 PLN/m²**, reflecting standard properties across both the primary and secondary markets.
